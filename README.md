@@ -54,7 +54,7 @@ Elle détecte les erreurs critiques, propose des suggestions correctives et gén
 
 ### Conditions (relevant)
 - Traduction XPath → français : and=et, or=ou, not=non, = est égal à, != est différent de, > est supérieur à, < est inférieur à.
-- selected(${var}, 'code') → « `<label>` a l'option «<choix>» cochée ».
+- selected(${var}, 'code') → « `<label>` a l'option `«<choix>»` cochée ».
 - count-selected(...) >= 1 → « Au moins une option est cochée pour … ».
 
 ### Exclusions
