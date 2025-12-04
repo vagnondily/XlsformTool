@@ -75,7 +75,7 @@ install.packages(c('readxl','dplyr','stringr','tidyr','purrr','officer','flextab
 ```R
 shiny::runApp()
 ```
-#### Lance l'app depuis Github :
+#### Ou encore lance l'app directement depuis Github sur R :
 ```R
 
 shiny::runGitHub(repo = "XlsformTool", username = "vagnondily")
