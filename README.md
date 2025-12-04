@@ -68,11 +68,11 @@ Elle détecte les erreurs critiques, propose des suggestions correctives et gén
 ### Le script nécessite R ainsi que les packages suivants. Vous pouvez les installer via la console R 
 ```R
 install.packages(c('readxl','dplyr','stringr','tidyr','purrr','officer','flextable','glue','tools','tibble','rlang','shiny','DT','writexl','htmltools','shinythemes'))
-``
+```
 
 ### Pour lancer l'application, Telecharger et ouvrez app.R dans RStudio et cliquez sur le bouton "Run App", ou exécutez dans la console :
 ```R
 shiny::runApp()
-``
+```
 
 
