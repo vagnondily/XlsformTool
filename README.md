@@ -19,7 +19,7 @@ Elle détecte les erreurs critiques, propose des suggestions correctives et gén
 
 ---
 
-## 🎨 Règles de rendu Word
+## Règles de rendu Word
 ### Styles & Design
 - Couleurs : BLUE (#0A66C2), DARK_BLUE (#001F3F), GREY_BG (#F2F2F2), GREY_TXT (#777777), RED_TXT (#C00000).
 - Police : Cambria (Body).
